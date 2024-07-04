@@ -39,9 +39,9 @@ Your API key |
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | black  Color | ![#000000](https://via.placeholder.com/10/0a192f?text=+) #000000 |
-| blue Color | ![#0000ff](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-|red  Color | ![#ff0000](https://via.placeholder.com/10/00b48a?text=+) #0000ff |
-| white Color | ![#fffafa](https://via.placeholder.com/10/00b48a?text=+) #fffafa |
+| blue Color | ![#0000ff](https://via.placeholder.com/10/f8f8f8?text=+) #0000ff |
+|red  Color | ![#ff0000](https://via.placeholder.com/10/00b48a?text=+) #ff0000 |
+| white Color | ![#ffffff](https://via.placeholder.com/10/00b48a?text=+) #ffffff |
 
 
 ## Screenshots
