@@ -35,6 +35,7 @@ Your API key |
 
 ## Color Reference
 
+
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | black  Color | ![#000000](https://via.placeholder.com/10/0a192f?text=+) #000000 |
@@ -44,6 +45,5 @@ Your API key |
 
 
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2024-07-04 054917](https://github.com/VishalRock04/weather/assets/133562727/935e4e2d-dc9b-4bb4-ac1e-4b31dd304ba8)
 
