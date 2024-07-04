@@ -30,9 +30,9 @@ https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API k
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **d78f79a69d66be56aeb228cfe35bc552**. 
+| `api_key` | `string` | ****. 
 Your API key |
-
+d78f79a69d66be56aeb228cfe35bc552
 ## Color Reference
 
 
