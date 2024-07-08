@@ -11,27 +11,29 @@ A brief description of what this project does and who it's for
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 # REQUERED  MODULES FOR THE PROJECT 
+
 $ pip install tkinter
 
 # IMPORT MODULES 
+
 $ import tkinter
 
 $ import requests
 
-## API Reference
+# API Reference
 
 https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
 
-#### Get all items
+# Get the site link 🔗 
 
 ```http
-  GET /api/items
+ https://openweathermap.org/current 
 ```
 
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | city
-Your API key |  d78f79a69d66be56aeb228cfe35bc552
+
+| Type     | Description                         |
+| :--------| :-----------------------------------|
+| API KEY  |**d78f79a69d66be56aeb228cfe35bc552** |
 
 ## Color Reference
 
