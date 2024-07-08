@@ -47,5 +47,6 @@ https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API k
 
 
 ## Screenshots
-![Screenshot 2024-07-04 054917](https://github.com/VishalRock04/weather/assets/133562727/935e4e2d-dc9b-4bb4-ac1e-4b31dd304ba8)
+
+![Screenshot 2024-07-08 124048](https://github.com/VishalRock04/weather/assets/133562727/6fb97cd7-ed60-4080-bffd-afbf9ddca0a0)
 
