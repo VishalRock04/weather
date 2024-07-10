@@ -1,14 +1,10 @@
 
-# QR CODE GENERATER
+# WEATHER APPLICATION 
+WeatherNow is a minimal desktop application that displays live weather data for any city in the INDIA. Built using Python, Tkinter, and the OpenWeather API, it provides users with real-time weather information, including temperature, humidity, and weather description.
 
-A brief description of what this project does and who it's for
+# REFERENCES 
 
-
-# Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Reference link -](https://www.geeksforgeeks.org/forecast-weather-project-check-today-weather-for-any-location/)
 
 # REQUERED  MODULES FOR THE PROJECT 
 
@@ -30,10 +26,9 @@ https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API k
  https://openweathermap.org/current 
 ```
 
-
 | Type     | Description                         |
 | :--------| :-----------------------------------|
-| API KEY  |**d78f79a69d66be56aeb228cfe35bc552** |
+| API KEY  |**d78f79a69xxxxxxxxxxxxxxxe35bc552** |
 
 ## Color Reference
 
@@ -47,6 +42,7 @@ https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API k
 
 
 # Screenshots
+![Screenshot 2024-07-10 093551](https://github.com/VishalRock04/weather/assets/133562727/3fe6d218-3d13-41ae-8b08-5cb737ee3168)
 
 
 
