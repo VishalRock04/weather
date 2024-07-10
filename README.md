@@ -1,6 +1,6 @@
 
 # WEATHER APPLICATION 
-WeatherNow is a minimal desktop application that displays live weather data for any city in the INDIA. Built using Python, Tkinter, and the OpenWeather API, it provides users with real-time weather information, including temperature, humidity, and weather description.
+Weather app is a minimal desktop application that displays live weather data for any city in the INDIA. Built using Python, Tkinter, and the OpenWeather API, it provides users with real-time weather information, including temperature, humidity, and weather description.
 
 # REFERENCES 
 
