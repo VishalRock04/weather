@@ -4,7 +4,7 @@ WeatherNow is a minimal desktop application that displays live weather data for 
 
 # REFERENCES 
 
- - [Reference link](https://www.geeksforgeeks.org/forecast-weather-project-check-today-weather-for-any-location/)
+ - [Reference link🔗🔗](https://www.geeksforgeeks.org/forecast-weather-project-check-today-weather-for-any-location/)
 
 # REQUERED  MODULES FOR THE PROJECT 
 
